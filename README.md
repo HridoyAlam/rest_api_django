@@ -1,2 +1,2 @@
-# Java-lab-one
-Practise problem
+# Django Rest Api
+Practise 
